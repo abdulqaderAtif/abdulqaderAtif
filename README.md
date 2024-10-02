@@ -21,7 +21,7 @@ Here’s a glimpse of my favorite tools and technologies:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulqader-atif&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqader-atif)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqader-atif)
 
 ---
 

@@ -1,12 +1,10 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Abdulqader Bin Abbas</h1>
 
-Welcome to my GitHub profile! I'm **Abdulqader**, a passionate 💻 Computer Scientist who loves 🤖 Artificial intelligence and 💸 FinTech.
 
 ## 🚀 **About Me**
 
-- 🔭 I’m currently working on **GDGUJ**, as a Project manager.
 - 🌱 I’m currently learning **Java** to improve my Skills in programming.
-
+  
 ---
 
 ## 🛠 **Languages and Tools**

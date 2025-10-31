@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Abdulqader Bin Abbas</h1>
 
 
-## 🚀 **About Me**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Java** to improve my Skills in programming.
-  
+- 🔍 Love exploring how systems work “under the hood”.
+- 🛠️ Building small experiments with bash, python, and C to test new ideas.  
+- 🧭 Always exploring new open-source tools and sharing what I learn.
+- 💬 Believe that “customization is freedom”.
+
 ---
 
-## 🛠 **Languages and Tools**
+## 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Qtile](https://img.shields.io/badge/-Qtile-44A833?style=flat-square&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Here’s a glimpse of my favorite tools and technologies:
-
-- **Languages**: ![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
 
 ---
 
@@ -33,7 +41,7 @@ Here’s a glimpse of my favorite tools and technologies:
 
 ### **Fun Fact**
 
-**I can't sleep without solving my errors** 
+**I often break things just to understand how to fix them better.** 
 
 ---
 
